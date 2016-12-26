@@ -1,4 +1,4 @@
-# VanillaScript & Ajax Todo list. 
+# VanillaScript Todo list. 
 
 A simple to app in Vanilla Javascript, one of my first little apps with the 
 
